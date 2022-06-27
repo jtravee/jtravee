@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtravee&theme=gruvbox)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jtravee&theme=gruvbox)](https://git.io/streak-stats)
