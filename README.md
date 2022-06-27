@@ -5,10 +5,10 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 ## Feel free to connect...
 
 <a href="https://www.linkedin.com/in/jennifer-travinski-85320858">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" width="36" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" width="40" /> 
 
 <a href=https://github.com/jtravee>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" />
 
 
 ## Tools and Technologies...
