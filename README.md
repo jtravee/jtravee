@@ -4,7 +4,7 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 
 ## Feel free to connect...
 
-<a href="jennifer-travinski-85320858">
+<a href="https://www.linkedin.com/in/jennifer-travinski-85320858">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" width="26" /> 
 
 <a href=https://github.com/jtravee>
