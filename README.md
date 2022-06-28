@@ -19,15 +19,17 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 ## Tools and Technologies...
 
 <a href=https://kubernetes.io/>  
-<img src="https://github.com/jtravee/jtravee/blob/main/images/kubernetes.png" width="38" />
-
-<a href=https://www.atlassian.com/software/confluence>  
-<img src="https://github.com/jtravee/jtravee/blob/main/images/confluence.png" width="46" />   
+<img src="https://github.com/jtravee/jtravee/blob/main/images/kubernetes.png" width="38" />   
 
 <a href=https://www.atlassian.com/software/confluence> 
-<img src="https://github.com/jtravee/jtravee/blob/main/images/markdown.png" width="48" height="42" />
+<img src="https://github.com/jtravee/jtravee/blob/main/images/markdown.png" width="48" height="46" />
   
-
+<a href=https://linuxfoundation.org/>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/linux.png" width="38" />
+  
+<a href=https://www.atlassian.com/software/confluence>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/confluence.png" width="40" />
+  
 ## Some Stats...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtravee&theme=gruvbox) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jtravee&theme=gruvbox)](https://git.io/streak-stats)
