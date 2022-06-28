@@ -5,7 +5,10 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 ## Feel free to connect...
 
 <a href=https://www.linkedin.com/in/jennifer-travinski-85320858>
-<img src="https://github.com/jtravee/jtravee/blob/main/images/linkedin.png" width="40" /> 
+<img src="https://github.com/jtravee/jtravee/blob/main/images/linkedin.png" width="40" />
+  
+<a href=https://suse.slack.com>
+<img src="https://github.com/jtravee/jtravee/blob/main/images/slack.png" width="40" />   
 
 <a href=https://github.com/jtravee>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" />
@@ -13,11 +16,17 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <a href=mailto:jtraveej@gmail.com>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/gmail.png" width="40" />  
 
-
 ## Tools and Technologies...
-  
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="52" />   
 
+<a href=https://kubernetes.io/>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/kubernetes.png" width="38" />
+
+<a href=https://www.atlassian.com/software/confluence>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/confluence.png" width="46" />   
+
+<a href=https://www.atlassian.com/software/confluence> 
+<img src="https://github.com/jtravee/jtravee/blob/main/images/markdown.png" width="48" height="42" />
+  
 
 ## Some Stats...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtravee&theme=gruvbox) 
