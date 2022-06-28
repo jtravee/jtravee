@@ -44,10 +44,10 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <img src="https://github.com/jtravee/jtravee/blob/main/images/markdown.png" width="48" height="40" />
   
 <a href=https://code.visualstudio.com/>  
-<img src="https://github.com/jtravee/jtravee/blob/main/images/vscode.png" width="33" height="36" />    
+<img src="https://github.com/jtravee/jtravee/blob/main/images/vscode.png" width="36 height="36" /> 
   
 <a href=https://git-scm.com/git stat>  
-<img src="https://github.com/jtravee/jtravee/blob/main/images/git.png" width="50" height="40" />
+<img src="https://github.com/jtravee/jtravee/blob/main/images/git.png" width="46" height="40" />
   
 <a href=https://www.atlassian.com/software/confluence>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/confluence.png" width="40" />
