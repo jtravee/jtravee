@@ -10,7 +10,7 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <a href=https://github.com/jtravee>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" />
   
-<a href=jtraveej@gmail.com>  
+<a href=mailto:jtraveej@gmail.com>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/gmail.png" width="40" />  
 
 
