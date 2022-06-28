@@ -79,7 +79,11 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <img src="https://github.com/jtravee/jtravee/blob/main/images/rancher-desktop.png" width="40" />
                                                                                              
 <a href=https://rancher.com/products/harvester>
-<img src="https://github.com/jtravee/jtravee/blob/main/images/harvester.png" width="34" /                                                                                             
+<img src="https://github.com/jtravee/jtravee/blob/main/images/harvester.png" width="34" height="32" />   
+                                                                                                   
+<a href=https://fleet.rancher.io/>
+<img src="https://github.com/jtravee/jtravee/blob/main/images/fleet.png" width="34" height="32" height="32" />
+                                                                                              
 ## Some Stats...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtravee&theme=gruvbox) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jtravee&theme=gruvbox)](https://git.io/streak-stats)
