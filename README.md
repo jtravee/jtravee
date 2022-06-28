@@ -80,7 +80,6 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
                                                                                              
 <a href=https://rancher.com/products/harvester>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/harvester.png" width="34" /                                                                                             
-  
 ## Some Stats...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtravee&theme=gruvbox) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jtravee&theme=gruvbox)](https://git.io/streak-stats)
