@@ -32,6 +32,9 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
   
 <a href=https://www.atlassian.com/software/confluence>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/confluence.png" width="40" />
+
+<a href=https://docusaurus.io/>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/docusaurus.png" width="40" />
   
 ## Some Stats...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtravee&theme=gruvbox) 
