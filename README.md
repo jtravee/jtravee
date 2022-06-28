@@ -44,16 +44,28 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <img src="https://github.com/jtravee/jtravee/blob/main/images/markdown.png" width="48" height="40" />
   
 <a href=https://git-scm.com/git stat>  
-<img src="https://github.com/jtravee/jtravee/blob/main/images/git.png" width="50" height="44" />    
+<img src="https://github.com/jtravee/jtravee/blob/main/images/git.png" width="50" height="44" />
+  
+<a href=https://code.visualstudio.com/>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/vscode.png" width="40" />  
   
 <a href=https://www.atlassian.com/software/confluence>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/confluence.png" width="40" />
+  
+<a href=https://zube.io/>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/zube.png" width="40" />  
 
 <a href=https://docusaurus.io/>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/docusaurus.png" width="40" />
 
 <a href=https://www.adobe.com/products/technicalcommunicationsuite.html>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/adobe-technical-communications-suite.png" width="40" />
+  
+<a href=https://www.docker.com/>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/jira.png" width="40" />  
+  
+<a href=https://www.atlassian.com/software/jira>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/docker.png" width="40" />    
   
 <a href=https://linuxfoundation.org/>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/linux.png" width="38" />
