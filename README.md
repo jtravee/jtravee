@@ -21,8 +21,8 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <a href=https://kubernetes.io/>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/kubernetes.png" width="38" />   
 
-<a href=https://www.atlassian.com/software/confluence> 
-<img src="https://github.com/jtravee/jtravee/blob/main/images/markdown.png" width="48" height="46" />
+<a href=https://www.markdownguide.org/> 
+<img src="https://github.com/jtravee/jtravee/blob/main/images/markdown.png" width="48" height="40" />
   
 <a href=https://linuxfoundation.org/>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/linux.png" width="38" />
