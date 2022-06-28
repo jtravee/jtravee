@@ -15,6 +15,8 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 
 
 ## Tools and Technologies...
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="52" />   
 
 
 ## Some Stats...
