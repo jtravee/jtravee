@@ -1,6 +1,25 @@
 ## Hello!
 
-I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/suse-rancher/). I'm passionate about writing, technology, learning new things, challenging myself, and collaboration.
+I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/suse-rancher/).
+
+|T|h|i|n|g|s||I||e|n|j|o|y||:|
+| - | - | - | - | - | - | - | - | - | - | - | - | - |- | - |- |
+|   |   |   |   |`L`| | | | | | | || ||| ||
+|`W`|   |   |`D`|`E`|`S`|`I`|`G`|`N`|   |   || || ||| ||
+|`R`|   |   |   |`A`|   |   |   |   |   |   |`T`|||||||
+|`I`|   |   |   |`R`|   |   |`C`|   |   |`T`|`R`|`A`|`V`|`E`|`L`| ||
+|`T`|`E`|`C`|`H`|`N`|`O`|`L`|`O`|`G`|`Y`|   |`I`|| ||| ||
+|`I`|   |`H`|   |`I`|   |   |`L`|   |   |   |`V`| || ||| ||
+|`N`|   |`A`|   |`N`|   |   |`L`|   |   |   |`I`|   |`J`||| ||
+|`G`|   |`L`|   |`G`|   |`L`|`A`|`N`|`G`|`U`|`A`|`G`|`E`|`S`||
+|   |   |`L`|   |   |`B`|   |`B`|   |   |   |   |   |`O`||| ||
+|   |   |`E`|   |   |`O`|   |`O`|   |   |   |   |   |`P`||| ||
+|   |   |`N`|   |   |`O`|   |`R`|   |   |`D`|   |   |`A`||| ||
+|   |   |`G`|   |   |`K`|   |`A`|   |`C`|`O`|`L`|`O`|`R`||| ||
+|   |`M`|`E`|`M`|`E`|`S`|   |`T`|   |   |`G`|   |   |`D`||| ||
+|   |   |`S`|   |   |   |`F`|`I`|`L`|`M`|`S`|   |   |`Y`||| ||
+|   |   |   |   |   |   |   |`N`| | | | || ||| ||
+|   |   |`P`|`H`|`O`|`T`|`O`|`G`|`R`|`A`|`P`|`H`|`Y`| ||| ||
 
 ## Feel free to connect...
 
