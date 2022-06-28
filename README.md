@@ -24,6 +24,9 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <a href=https://www.markdownguide.org/> 
 <img src="https://github.com/jtravee/jtravee/blob/main/images/markdown.png" width="48" height="40" />
   
+<a href=https://git-scm.com/git stat>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/git.png" width="46" height="42" />    
+  
 <a href=https://linuxfoundation.org/>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/linux.png" width="38" />
   
