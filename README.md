@@ -25,16 +25,19 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <img src="https://github.com/jtravee/jtravee/blob/main/images/markdown.png" width="48" height="40" />
   
 <a href=https://git-scm.com/git stat>  
-<img src="https://github.com/jtravee/jtravee/blob/main/images/git.png" width="46" height="42" />    
-  
-<a href=https://linuxfoundation.org/>  
-<img src="https://github.com/jtravee/jtravee/blob/main/images/linux.png" width="38" />
+<img src="https://github.com/jtravee/jtravee/blob/main/images/git.png" width="50" height="44" />    
   
 <a href=https://www.atlassian.com/software/confluence>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/confluence.png" width="40" />
 
 <a href=https://docusaurus.io/>  
-<img src="https://github.com/jtravee/jtravee/blob/main/images/docusaurus.png" width="40" />
+<img src="https://github.com/jtravee/jtravee/blob/main/images/docusaurus.png" width="42" />
+  
+<a href=https://linuxfoundation.org/>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/linux.png" width="38" />
+  
+<a href=https://www.microsoft.com/en-us/windows>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/windows.png" width="38" />
   
 ## Some Stats...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtravee&theme=gruvbox) 
