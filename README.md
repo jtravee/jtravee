@@ -69,12 +69,12 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <a href=https://www.microsoft.com/en-us/windows>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/windows.png" width="38" />
                                                                                      
-<a href=https://aws.amazon.com/>  
-<img src="https://github.com/jtravee/jtravee/blob/main/images/aws.png" width="38" />
-                                                                                 
 <a href=https://cloud.google.com/gcp>  
-<img src="https://github.com/jtravee/jtravee/blob/main/images/gcp.png" width="38" />                                                                                 
-  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/gcp.png" width="38" />  
+                                                                                     
+<a href=https://aws.amazon.com/>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/aws.png" width="50" height="50"/>                                                                       
+
 ## I Contribute to...
   
 <a href=https://rancher.com/>
@@ -89,7 +89,7 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <a href=https://fleet.rancher.io/>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/fleet.png" width="34" height="32" height="32" />
 
-<a href=https://github.com/jtravee>
+<a href=https://github.com/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" />
                                                                                               
 ## Some Stats...
