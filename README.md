@@ -14,10 +14,10 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 |`I`|   |`H`|   |`I`|   |   |`L`|   |   |   |   
 |`N`|   |`A`|   |`N`|   |   |`L`|   |   |   |   
 |`G`|   |`L`|   |`G`|   |`G`|`A`|`M`|`E`|`S`|   
-|   |   |`L`|   |   |`B`|   |`B`|   |   |   |   
-|   |   |`E`|   |`C`|`O`|`L`|`O`|`R`|   |   |   
-|   |   |`N`|   |   |`O`|   |`R`|   |   |`D`|   
-|   |   |`G`|   |   |`K`|   |`A`|   |   |`O`|
+|   |   |`L`|   |   |   |   |`B`|   |   |   |   
+|`I`|`D`|`E`|`A`|`S`|   |`C`|`O`|`D`|`E`|   |   
+|   |   |`N`|   |   |   |   |`R`|   |   |`D`|   
+|   |   |`G`|   |   |   |   |`A`|   |   |`O`|
 |   |`M`|`E`|`M`|`E`|`S`|   |`T`|   |   |`G`|   
 |   |   |`S`|   |   |   |`F`|`I`|`L`|`M`|`S`|   
 |   |   |   |   |   |   |   |`N`|   |   |   |   
@@ -29,10 +29,7 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <img src="https://github.com/jtravee/jtravee/blob/main/images/linkedin.png" width="40" />
   
 <a href=https://suse.slack.com>
-<img src="https://github.com/jtravee/jtravee/blob/main/images/slack.png" width="40" />   
-
-<a href=https://github.com/jtravee>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" />
+<img src="https://github.com/jtravee/jtravee/blob/main/images/slack.png" width="40" />
   
 <a href=mailto:jtraveej@gmail.com>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/gmail.png" width="40" />  
@@ -72,7 +69,7 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <a href=https://www.microsoft.com/en-us/windows>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/windows.png" width="38" />
   
-## Rancher Products and Projects...
+## I Contribute to...
   
 <a href=https://rancher.com/>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/rancher.png" width="60" />  
@@ -80,11 +77,14 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <a href=https://rancherdesktop.io/>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/rancher-desktop.png" width="40" />
                                                                                              
-<a href=https://rancher.com/products/harvester>
+<a href=https://harvesterhci.io/>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/harvester.png" width="34" height="32" />   
                                                                                                    
 <a href=https://fleet.rancher.io/>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/fleet.png" width="34" height="32" height="32" />
+
+<a href=https://github.com/jtravee>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" />
                                                                                               
 ## Some Stats...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtravee&theme=gruvbox) 
