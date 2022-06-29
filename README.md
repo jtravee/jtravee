@@ -68,6 +68,12 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
   
 <a href=https://www.microsoft.com/en-us/windows>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/windows.png" width="38" />
+                                                                                     
+<a href=https://aws.amazon.com/>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/aws.png" width="38" />
+                                                                                 
+<a href=https://cloud.google.com/gcp>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/gcp.png" width="38" />                                                                                 
   
 ## I Contribute to...
   
