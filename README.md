@@ -93,4 +93,4 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" />
                                                                                               
 ---
-![height=200 width=200 GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtravee&theme=gruvbox)|[![height=200 width=200 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jtravee&theme=gruvbox)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtravee&theme=gruvbox)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jtravee&theme=gruvbox)](https://git.io/streak-stats)
