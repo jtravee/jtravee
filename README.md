@@ -1,6 +1,6 @@
 <img src="https://github.com/jtravee/jtravee/blob/main/images/banner.png" width="790" height="290"/>
 
-## About Me...
+<img src="https://github.com/jtravee/jtravee/blob/main/images/about-me.png" width="130" /> 
 
 I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/suse-rancher/).
 
@@ -22,8 +22,9 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 |   |   |`S`|   |   |   |`F`|`I`|`L`|`M`|`S`|   
 |   |   |   |   |   |   |   |`N`|   |   |   |   
 |   |`L`|`A`|`N`|`G`|`U`|`A`|`G`|`E`|`S`|   |
+<br/>
+<img src="https://github.com/jtravee/jtravee/blob/main/images/connect.png" width="250" /> 
 
-## Feel free to connect...
 
 <a href=https://www.linkedin.com/in/jennifer-travinski-85320858>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/linkedin.png" width="40" />
@@ -32,9 +33,13 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <img src="https://github.com/jtravee/jtravee/blob/main/images/slack.png" width="40" />
   
 <a href=mailto:jtraveej@gmail.com>  
-<img src="https://github.com/jtravee/jtravee/blob/main/images/gmail.png" width="40" />  
-
-## Tools and Technologies...
+<img src="https://github.com/jtravee/jtravee/blob/main/images/gmail.png" width="40" /<br/>  
+<br>
+<br>
+<br/>  
+  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/tools.png" width="290" />
+<br/>  
 
 <a href=https://kubernetes.io/>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/kubernetes.png" width="38" />   
@@ -74,9 +79,12 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
                                                                                      
 <a href=https://aws.amazon.com/>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/aws.png" width="50" height="50"/>                                                                       
-
-## I Contribute to...
-  
+<br>
+<br>
+<br/>                                                                                             
+                                                                                             
+<img src="https://github.com/jtravee/jtravee/blob/main/images/products.png" width="270" /><br/>                                                                     
+                                                                                       
 <a href=https://rancher.com/>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/rancher.png" width="60" />  
                                                                                      
