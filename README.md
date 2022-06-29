@@ -1,4 +1,4 @@
-<img src="https://github.com/jtravee/jtravee/blob/main/images/banner.png" width="800" />   
+ 
 
 ## About Me...
 
