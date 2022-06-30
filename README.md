@@ -24,7 +24,7 @@ I'm Jen, a technical writer with [SUSE Rancher](https://www.suse.com/products/su
 <img src="https://github.com/jtravee/jtravee/blob/main/images/connect.png" width="250" /> 
 
 
-<a href=https://www.linkedin.com/in/jennifer-travinski-85320858>
+<a href=https://www.linkedin.com/in/jen-travinski>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/linkedin.png" width="40" />
   
 <a href=https://suse.slack.com>
