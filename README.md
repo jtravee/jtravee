@@ -21,7 +21,7 @@ I'm a technical writer with [SUSE Rancher](https://www.suse.com/products/suse-ra
 |   |   |   |   |   |   |   |`N`|   |   |   |   
 |   |`L`|`A`|`N`|`G`|`U`|`A`|`G`|`E`|`S`|   |
 
-## :handshake: Feel free to connect
+## :handshake: Feel free to connect...
 
 <a href=https://www.linkedin.com/in/jen-travinski>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/linkedin.png" width="40" />
