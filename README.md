@@ -1,6 +1,6 @@
 ## :wave: Hi, I'm Jen Travinski...
 
-I'm a technical writer with [SUSE Rancher](https://www.suse.com/products/suse-rancher/).
+I'm a technical writer with [Cheetah Digital](https://www.cheetahdigital.com/).
 
 |T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
