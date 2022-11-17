@@ -26,7 +26,7 @@ I'm a technical writer with [SUSE Rancher](https://www.suse.com/products/suse-ra
 <a href=https://www.linkedin.com/in/jen-travinski>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/linkedin.png" width="40" />
   
-<a href=https://suse.slack.com>
+<a href=https://campaignmonitor.slack.com>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/slack.png" width="40" />
   
 <a href=mailto:jtraveej@gmail.com>  
