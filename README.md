@@ -1,6 +1,6 @@
 ## :wave: Hi, I'm Jen Travinski...
 
-I'm a technical writer with [Cheetah Digital](https://www.cheetahdigital.com/).
+I'm a technical writer with [Marigold](https://www.cheetahdigital.com/](https://meetmarigold.com/).
 
 |T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
