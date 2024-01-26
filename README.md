@@ -1,6 +1,6 @@
 ## :wave: Hi, I'm Jen Travinski...
 
-I'm a technical writer with [Marigold](https://www.cheetahdigital.com/](https://meetmarigold.com/).
+I'm a technical writer with [Marigold](https://meetmarigold.com/).
 
 |T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
@@ -29,7 +29,7 @@ I'm a technical writer with [Marigold](https://www.cheetahdigital.com/](https://
 <a href=https://campaignmonitor.slack.com>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/slack.png" width="40" />
   
-<a href=mailto:jtraveej@gmail.com>  
+<a href=mailto:jennifer.travinski@gmail.com>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/gmail.png" width="40" /<br/>  
   
 ## :toolbox: Tools and technologies...
@@ -55,8 +55,8 @@ I'm a technical writer with [Marigold](https://www.cheetahdigital.com/](https://
 <a href=https://docusaurus.io/>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/docusaurus.png" width="40" />
 
-<a href=https://www.adobe.com/products/technicalcommunicationsuite.html>  
-<img src="https://github.com/jtravee/jtravee/blob/main/images/adobe-technical-communications-suite.png" width="40" /> 
+<a href=https://www.adobe.com/products/robohelp.html/>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/adobe-robohelp.png" width="38" /> 
   
 <a href=https://www.docker.com/>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/docker.png" width="48" />    
@@ -73,6 +73,12 @@ I'm a technical writer with [Marigold](https://www.cheetahdigital.com/](https://
 <a href=https://aws.amazon.com/>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/aws.png" width="50" height="50"/>
 
+<a href=https://www.zendesk.com/>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/zendesk.png" width="42" height="42"/>
+
+<a href=https://www.madcapsoftware.com/>  
+<img src="https://github.com/jtravee/jtravee/blob/main/images/madcap-flare.png" width="42" height="42"/>
+ 
 ## :floppy_disk: Products and projects...                                                                   
                                                                                        
 <a href=https://rancher.com/>
