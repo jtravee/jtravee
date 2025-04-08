@@ -1,5 +1,7 @@
 ## :wave: Hi, I'm Jen Travinski...
 
+I'm a freelance technical writer.
+
 |T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
 |   |   |   |   |`L`|   |   |   |   |   |   |   
@@ -23,9 +25,6 @@
 
 <a href=https://www.linkedin.com/in/jen-travinski>
 <img src="https://github.com/jtravee/jtravee/blob/main/images/linkedin.png" width="40" />
-  
-<a href=https://campaignmonitor.slack.com>
-<img src="https://github.com/jtravee/jtravee/blob/main/images/slack.png" width="40" />
   
 <a href=mailto:jennifer.travinski@gmail.com>  
 <img src="https://github.com/jtravee/jtravee/blob/main/images/gmail.png" width="40" /<br/>  
