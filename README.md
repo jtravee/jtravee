@@ -1,7 +1,5 @@
 ## :wave: Hi, I'm Jen Travinski...
 
-I'm a technical writer with [Marigold](https://meetmarigold.com/).
-
 |T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
 |   |   |   |   |`L`|   |   |   |   |   |   |   
